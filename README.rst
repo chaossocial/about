@@ -20,3 +20,4 @@ non-intrusive styling, or a nice favicon … feel free to submit those, too!)
 .. _leah: https://chaos.social/@leah
 .. _Mastodon: https://github.com/tootsuite/mastodon
 .. _rixx: https://chaos.social/@rixx
+.. _site information: https://chaos.social/about/more
