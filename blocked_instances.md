@@ -35,7 +35,9 @@ Notes on our instance
 
 
 References
-----
-https://shitposter.club/notice/2562618
-----
+-----
+
+- https://shitposter.club/notice/2562618
+
+-----
 This overview is based on https://github.com/tootcafe/blocked-instances and adapted for chaos.social
