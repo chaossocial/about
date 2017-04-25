@@ -11,7 +11,7 @@ Blocked instances
 | Instance | Status\* | Reason |
 | ---- | ---- | ---- |
 | shitposter.club | silenced | GNUSocial apparent free speech zone\*\* |
-| pawoo.net | silenced | not tagged nfsw content, lolicon\*\*\* |
+| pawoo.net | suspended | not tagged nfsw content, unwanted follow bots, lolicon\*\*\* |
 
 ### Footnotes
 
