@@ -12,6 +12,7 @@ Blocked instances
 | ---- | ---- | ---- |
 | shitposter.club | silenced | GNUSocial apparent free speech zone\*\* |
 | pawoo.net | suspended | not tagged nfsw content, unwanted follow bots, lolicon\*\*\* |
+| anitwitter.moe | suspended | discrimination, racism, "free speech" |
 
 ### Footnotes
 
