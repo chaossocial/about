@@ -15,6 +15,7 @@ Blocked instances
 | anitwitter.moe | suspended | discrimination, racism, "free speech" |
 | gs.smuglo.li  | suspended | discrimination, racism, "free speech" |
 | preteengirls.biz | suspended | Ew.\*\*\* |
+| pleroma.rareome.ga | suspended | Doesn't [respect blocks or status privacy](https://pleroma.rareome.ga/notice/113524), invites to [post lolicons](https://pleroma.rareome.ga/notice/55113)\*\*\* |
 
 ### Footnotes
 
