@@ -13,8 +13,9 @@ Blocked instances
 | shitposter.club | silenced | GNUSocial apparent free speech zone\*\* |
 | pawoo.net | suspended | not tagged nfsw content, unwanted follow bots, lolicon\*\*\* |
 | anitwitter.moe | suspended | discrimination, racism, "free speech" |
-| gs.smuglo.li  | suspended | discrimination, racism, "free speech" |
+| gs.smuglo.li, pl.smuglo.li  | suspended | discrimination, racism, "free speech" |
 | preteengirls.biz | suspended | Ew.\*\*\* |
+| ohai.su | suspended | |
 | pleroma.rareome.ga | suspended | Doesn't [respect blocks or status privacy](https://pleroma.rareome.ga/notice/113524), invites to [post lolicons](https://pleroma.rareome.ga/notice/55113)\*\*\* |
 | play.xmr.101010.pl | suspended | Cryptomining |
 | newjack.city | suspended | Exclusive to unwanted follow bots |
