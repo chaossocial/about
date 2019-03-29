@@ -20,6 +20,7 @@ Blocked instances
 | play.xmr.101010.pl | suspended | Cryptomining |
 | newjack.city | suspended | Exclusive to unwanted follow bots |
 | the.hedgehoghunter.club | suspended | discrimination, racism, "free speech" |
+| freespeechextremist.com | suspended | discrimination, racism, "free speech" |
 
 ### Footnotes
 
