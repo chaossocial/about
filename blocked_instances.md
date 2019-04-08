@@ -21,6 +21,7 @@ Blocked instances
 | newjack.city | suspended | Exclusive to unwanted follow bots |
 | the.hedgehoghunter.club | suspended | discrimination, racism, "free speech" |
 | freespeechextremist.com | suspended | discrimination, racism, "free speech" |
+| neckbeard.xyz | suspended | discrimination, racism, lolicon\*\*\*, multiple other violations of our rules |
 
 ### Footnotes
 
