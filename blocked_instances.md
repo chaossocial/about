@@ -22,6 +22,7 @@ Blocked instances
 | the.hedgehoghunter.club | suspended | discrimination, racism, "free speech" |
 | freespeechextremist.com | suspended | discrimination, racism, "free speech" |
 | neckbeard.xyz | suspended | discrimination, racism, lolicon\*\*\*, multiple other violations of our rules |
+| cawfee.club | suspended | discrimination, racism, "free speach" |
 
 ### Footnotes
 
@@ -48,6 +49,7 @@ References
 -----
 
 - https://shitposter.club/notice/2562618
+- https://cawfee.club/notice/9hpMCZWbd0zuR47CZk
 
 -----
 This overview is based on https://github.com/tootcafe/blocked-instances and adapted for chaos.social
