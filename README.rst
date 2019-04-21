@@ -8,7 +8,8 @@ You can see our current block/silence policy in blocked_instances.md_, and our c
 `site information`_ in about.html_.
 
 If anything about our instance bothers you, you can contact leah_ or rixx_ via mastodon
-or email, or submit a PR to this repository.
+or email. If you want chaos.social to add a domain block, please let us know via a
+report on chaos.social.
 
 (By the way: we're still looking for nice ways to customize chaos.social, e.g. backgrounds,
 non-intrusive styling, or a nice favicon … feel free to submit those, too!)
