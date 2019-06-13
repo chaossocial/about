@@ -22,6 +22,7 @@ Blocked instances
 | the.hedgehoghunter.club | suspended | discrimination, racism, "free speech" |
 | freespeechextremist.com | suspended | discrimination, racism, "free speech" |
 | neckbeard.xyz | suspended | discrimination, racism, lolicon\*\*\*, multiple other violations of our rules |
+| libre.tube | suspended | promotion of violence and murder, multiple other violations of our rules |
 
 ### Footnotes
 
