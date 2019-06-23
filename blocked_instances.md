@@ -24,6 +24,7 @@ Blocked instances
 | neckbeard.xyz | suspended | discrimination, racism, lolicon\*\*\*, multiple other violations of our rules |
 | libre.tube | suspended | promotion of violence and murder, multiple other violations of our rules |
 | gab.com/gab.ai | suspended | discrimination, racism, "free speech" |
+| lets.saynoto.lgbt | suspended | discrimination |
 
 ### Footnotes
 
