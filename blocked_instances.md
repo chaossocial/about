@@ -25,6 +25,7 @@ Blocked instances
 | libre.tube | suspended | promotion of violence and murder, multiple other violations of our rules |
 | gab.com/gab.ai | suspended | discrimination, racism, "free speech" |
 | lets.saynoto.lgbt | suspended | discrimination |
+| weedis.life | suspended | follow spam |
 
 ### Footnotes
 
