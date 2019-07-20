@@ -26,6 +26,8 @@ Blocked instances
 | gab.com/gab.ai | suspended | discrimination, racism, "free speech" |
 | lets.saynoto.lgbt | suspended | discrimination |
 | weedis.life | suspended | follow spam |
+| freevoice.space | suspende | discrimination |
+| kiwifarms.cc | suspende | discrimination |
 
 ### Footnotes
 
