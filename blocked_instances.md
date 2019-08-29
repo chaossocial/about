@@ -30,6 +30,9 @@ Blocked instances
 | kiwifarms.cc | suspended | discrimination |
 | humblr.social | silenced | massive amount of not tagged NSFW content |
 | freefedifollowers.ga | suspended | follower spam |
+| community.halle-leaks.de | suspended | discrimination, racism, "free speech" |
+| video.halle-leaks.de | suspended | discrimination, racism, "free speech" |
+
 ### Footnotes
 
 - \* Silenced vs suspended: silenced means they don't appear in the Federated timeline, but if someone discovers the accounts somehow (e.g. via replying to another toot) then they can follow and it will appear in their Home view.
