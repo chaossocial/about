@@ -32,6 +32,8 @@ Blocked instances
 | freefedifollowers.ga | suspended | follower spam |
 | community.halle-leaks.de | suspended | discrimination, racism, "free speech" |
 | video.halle-leaks.de | suspended | discrimination, racism, "free speech" |
+| spinster.xyz | suspended | discrimination |
+| sinblr.com | silenced | massive amount of not tagged NSFW content |
 
 ### Footnotes
 
