@@ -20,6 +20,7 @@ Blocked instances
 | freespeechextremist.com     | ⛔      | Discrimination, racism, "free speech zone"²                                                                                                |
 | freevoice.space             | ⛔      | Discrimination                                                                                                                             |
 | gab.com, gab.ai             | ⛔      | Discrimination, racism, "free speech zone"²                                                                                                |
+| glindr.org                  | ⛔      | Discrimination                                                                                                                             |
 | gs.smuglo.li, pl.smuglo.li  | ⛔      | Discrimination, racism, "free speech zone"²                                                                                                |
 | humblr.social               | 🔇      | Massive amount of untagged NSFW content                                                                                                    |
 | kiwifarms.cc                | ⛔      | Discrimination                                                                                                                             |
