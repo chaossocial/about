@@ -1,45 +1,53 @@
 List of instances blocked by chaos.social
 =======
 
-This is a list of Mastodon/GNU Social instances blocked by [chaos.social](https://chaos.social). If you think an instance has been unfairly blocked, please open an issue and/or a pull request.
+This is a list of Mastodon/GNU Social instances blocked by [chaos.social](https://chaos.social). If you think an
+instance has been unfairly blocked, please contact the administrators [leah](https://chaos.social/@leah) and
+[rixx](https://chaos.social/@rixx).
 
-The purpose of this is to be transparent and to collaborate with other admins on identifying those instances that violate the Code of Conduct, or those that tend to contain bad actors who do, and who boost unwanted content into other instances.
+The purpose of this list is to be transparent towards our users, and to collaborate with other admins on identifying
+those instances that violate the Code of Conduct, or those that tend to contain bad actors, and who boost unwanted
+content into other instances.
 
 Blocked instances
 -------
 
-| Instance | Status\* | Reason |
-| ---- | ---- | ---- |
-| shitposter.club | silenced | GNUSocial apparent free speech zone\*\* |
-| pawoo.net | suspended | not tagged nfsw content, unwanted follow bots, lolicon\*\*\* |
-| anitwitter.moe | suspended | discrimination, racism, "free speech" |
-| gs.smuglo.li, pl.smuglo.li  | suspended | discrimination, racism, "free speech" |
-| preteengirls.biz | suspended | Ew.\*\*\* |
-| ohai.su | suspended | |
-| pleroma.rareome.ga | suspended | Doesn't [respect blocks or status privacy](https://pleroma.rareome.ga/notice/113524), invites to [post lolicons](https://pleroma.rareome.ga/notice/55113)\*\*\* |
-| play.xmr.101010.pl | suspended | Cryptomining |
-| newjack.city | suspended | Exclusive to unwanted follow bots |
-| the.hedgehoghunter.club | suspended | discrimination, racism, "free speech" |
-| freespeechextremist.com | suspended | discrimination, racism, "free speech" |
-| neckbeard.xyz | suspended | discrimination, racism, lolicon\*\*\*, multiple other violations of our rules |
-| libre.tube | suspended | promotion of violence and murder, multiple other violations of our rules |
-| gab.com/gab.ai | suspended | discrimination, racism, "free speech" |
-| lets.saynoto.lgbt | suspended | discrimination |
-| weedis.life | suspended | follow spam |
-| freevoice.space | suspended | discrimination |
-| kiwifarms.cc | suspended | discrimination |
-| humblr.social | silenced | massive amount of not tagged NSFW content |
-| freefedifollowers.ga | suspended | follower spam |
-| community.halle-leaks.de | suspended | discrimination, racism, "free speech" |
-| video.halle-leaks.de | suspended | discrimination, racism, "free speech" |
-| spinster.xyz | suspended | discrimination |
-| sinblr.com | silenced | massive amount of not tagged NSFW content |
+| Instance                    | Status¹ | Reason                                                                                                                                     |
+| --------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| anitwitter.moe              | ⛔      | Discrimination, racism, "free speech zone"²                                                                                                |
+| community.halle-leaks.de    | ⛔      | Discrimination, racism, "free speech zone"²                                                                                                |
+| freefedifollowers.ga        | ⛔      | Follower spam                                                                                                                              |
+| freespeechextremist.com     | ⛔      | Discrimination, racism, "free speech zone"²                                                                                                |
+| freevoice.space             | ⛔      | Discrimination                                                                                                                             |
+| gab.com, gab.ai             | ⛔      | Discrimination, racism, "free speech zone"²                                                                                                |
+| gs.smuglo.li, pl.smuglo.li  | ⛔      | Discrimination, racism, "free speech zone"²                                                                                                |
+| humblr.social               | 🔇      | Massive amount of untagged NSFW content                                                                                                    |
+| kiwifarms.cc                | ⛔      | Discrimination                                                                                                                             |
+| lets.saynoto.lgbt           | ⛔      | Discrimination                                                                                                                             |
+| libre.tube                  | ⛔      | Promotion of violence and murder, multiple other violations of our rules                                                                   |
+| neckbeard.xyz               | ⛔      | Discrimination, racism, lolicon³, multiple other violations of our rules                                                                   |
+| newjack.city                | ⛔      | Exclusive to unwanted follow bots                                                                                                          |
+| ohai.su                     | ⛔      |                                                                                                                                            |
+| pawoo.net                   | ⛔      | Untagged nfsw content, unwanted follow bots, lolicon\*\*\*                                                                                 |
+| play.xmr.101010.pl          | ⛔      | Cryptomining                                                                                                                               |
+| pleroma.rareome.ga          | ⛔      | Doesn't [respect blocks or status privacy](https://pleroma.rareome.ga/notice/113524), [lolicons](https://pleroma.rareome.ga/notice/55113)³ |
+| preteengirls.biz            | ⛔      | Ew.³                                                                                                                                       |
+| shitposter.club             | 🔇      | "Free speech zone"²                                                                                                                        |
+| sinblr.com                  | 🔇      | Massive amount of untagged NSFW content                                                                                                    |
+| spinster.xyz                | ⛔      | Discrimination                                                                                                                             |
+| the.hedgehoghunter.club     | ⛔      | Discrimination, racism, "free speech zone"²                                                                                                |
+| video.halle-leaks.de        | ⛔      | Discrimination, racism, "free speech zone"²                                                                                                |
+| weedis.life                 | ⛔      | Follower spam                                                                                                                              |
 
 ### Footnotes
 
-- \* Silenced vs suspended: silenced means they don't appear in the Federated timeline, but if someone discovers the accounts somehow (e.g. via replying to another toot) then they can follow and it will appear in their Home view.
-- \*\* "Free speech zone": a place where it's okay to promote e.g. National Socialism because the argument is that open discussion is more important than people's sensitivities or the denazification laws of Germany/France/etc. The term is not meant in a derogatory way; if there's a better one, let me know.
-- \*\*\* lolicon: sexualized depictions of children
+¹ Silenced 🔇 vs suspended ⛔: Silenced instances don't appear in the Federated timeline, but their accounts can still
+be seen, e.g. by searching for them, by interacting with them in conversations, or by following them.
+
+² "Free speech zone": A place where it's okay to promote e.g. National Socialism because the argument is that open
+discussion is more important than people's sensitivities or the denazification laws of Germany/France/etc.
+
+³ "lolicon": sexualized depictions of children
 
 Notes on our instance
 -----
