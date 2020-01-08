@@ -34,6 +34,7 @@ Blocked instances
 | preteengirls.biz            | ⛔      | Ew.³                                                                                                                                       |
 | shitposter.club             | 🔇      | "Free speech zone"²                                                                                                                        |
 | sinblr.com                  | 🔇      | Massive amount of untagged NSFW content                                                                                                    |
+| skippers-bin.com            | ⛔      | Same admin as neckbeard.xyz, same behaviour                                                                                                |
 | spinster.xyz                | ⛔      | Discrimination                                                                                                                             |
 | the.hedgehoghunter.club     | ⛔      | Discrimination, racism, "free speech zone"²                                                                                                |
 | video.halle-leaks.de        | ⛔      | Discrimination, racism, "free speech zone"²                                                                                                |
