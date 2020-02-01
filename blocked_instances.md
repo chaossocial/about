@@ -31,6 +31,7 @@ Blocked instances
 | newjack.city                | ⛔      | Exclusive to unwanted follow bots                                                                                                          |
 | ohai.su                     | ⛔      |                                                                                                                                            |
 | pawoo.net                   | ⛔      | Untagged nfsw content, unwanted follow bots, lolicon\*\*\*                                                                                 |
+| pieville.net                | ⛔      | Racism, antisemitism                                                                                                                       |
 | play.xmr.101010.pl          | ⛔      | Cryptomining                                                                                                                               |
 | pleroma.rareome.ga          | ⛔      | Doesn't [respect blocks or status privacy](https://pleroma.rareome.ga/notice/113524), [lolicons](https://pleroma.rareome.ga/notice/55113)³ |
 | preteengirls.biz            | ⛔      | Ew.³                                                                                                                                       |
