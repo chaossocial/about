@@ -17,6 +17,7 @@ Blocked instances
 | anitwitter.moe              | ⛔      | Discrimination, racism, "free speech zone"²                                                                                                |
 | cawfee.club                 | ⛔      | Discrimination, racism, "free speech zone"²                                                                                                |
 | community.halle-leaks.de    | ⛔      | Discrimination, racism, "free speech zone"²                                                                                                |
+| crypto-group-buy.com        | ⛔      | Spam instance                                                                                                                              |
 | freefedifollowers.ga        | ⛔      | Follower spam                                                                                                                              |
 | freespeechextremist.com     | ⛔      | Discrimination, racism, "free speech zone"²                                                                                                |
 | freevoice.space             | ⛔      | Discrimination                                                                                                                             |
