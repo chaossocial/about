@@ -39,10 +39,12 @@ Blocked instances
 | shitposter.club             | 🔇      | "Free speech zone"²                                                                                                                        |
 | sinblr.com                  | 🔇      | Massive amount of untagged NSFW content                                                                                                    |
 | skippers-bin.com            | ⛔      | Same admin as neckbeard.xyz, same behaviour                                                                                                |
+| sneak.berlin                | ⛔      | privacy violation                                                                                                |
 | spinster.xyz                | ⛔      | Discrimination                                                                                                                             |
 | the.hedgehoghunter.club     | ⛔      | Discrimination, racism, "free speech zone"²                                                                                                |
 | video.halle-leaks.de        | ⛔      | Discrimination, racism, "free speech zone"²                                                                                                |
 | weedis.life                 | ⛔      | Follower spam                                                                                                                              |
+| yggdrasil.social            | ⛔      | Discrimination                                                                                               |
 
 ### Footnotes
 
