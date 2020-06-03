@@ -25,6 +25,7 @@ Blocked instances
 | glindr.org                  | ⛔      | Discrimination                                                                                                                             |
 | gs.smuglo.li, pl.smuglo.li  | ⛔      | Discrimination, racism, "free speech zone"²                                                                                                |
 | humblr.social               | 🔇      | Massive amount of untagged NSFW content                                                                                                    |
+| jaeger.website              | ⛔      | Discrimination, racism, "free speech zone"²                                                                                                |
 | kiwifarms.cc                | ⛔      | Discrimination                                                                                                                             |
 | lets.saynoto.lgbt           | ⛔      | Discrimination                                                                                                                             |
 | libre.tube                  | ⛔      | Promotion of violence and murder, multiple other violations of our rules                                                                   |
