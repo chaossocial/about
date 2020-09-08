@@ -43,6 +43,7 @@ Blocked instances
 | sneak.berlin                | ⛔      | privacy violation                                                                                                |
 | spinster.xyz                | ⛔      | Discrimination                                                                                                                             |
 | the.hedgehoghunter.club     | ⛔      | Discrimination, racism, "free speech zone"²                                                                                                |
+| toot.canberrasocial.net     | ⛔      | "free speech zone"²                                        |
 | video.halle-leaks.de        | ⛔      | Discrimination, racism, "free speech zone"²                                                                                                |
 | weedis.life                 | ⛔      | Follower spam                                                                                                                              |
 | yggdrasil.social            | ⛔      | Discrimination                                                                                               |
