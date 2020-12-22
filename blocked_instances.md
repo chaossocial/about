@@ -14,7 +14,8 @@ Blocked instances
 
 | Instance                    | Status¹ | Reason                                                                                                                                     |
 | --------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| anitwitter.moe              | ⛔      | Discrimination, racism, "free speech zone"²                                                                                                |
+| anitwitter.moe              | ⛔      | Discrimination, racism, "free speech zone"²   |
+| brighteon.social            | ⛔      | "free speech zone"²   |
 | cawfee.club                 | ⛔      | Discrimination, racism, "free speech zone"²                                                                                                |
 | community.halle-leaks.de    | ⛔      | Discrimination, racism, "free speech zone"²                                                                                                |
 | crypto-group-buy.com        | ⛔      | Spam instance                                                                                                                              |
