@@ -79,7 +79,7 @@ Notes on our instance
 -----
 
 **We don't accept:**
-- Harrassment, stalking, doxxing
+- Harassment, stalking, doxxing
 - Racism, sexism, verbal abuse or advocation thereof
 - Discrimination against gender and sexual minorities, or advocation thereof
 - Violent nationalist propaganda, Nazi symbolism or promoting the ideology of National Socialism
