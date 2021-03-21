@@ -12,42 +12,42 @@ content into other instances.
 Blocked instances
 -------
 
-| Instance                    | Status¹ | Reason                                                                                                                                     |
-| --------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| anitwitter.moe              | ⛔      | Discrimination, racism, "free speech zone"²   |
-| brighteon.social            | ⛔      | "free speech zone"²   |
-| cawfee.club                 | ⛔      | Discrimination, racism, "free speech zone"²                                                                                                |
-| community.halle-leaks.de    | ⛔      | Discrimination, racism, "free speech zone"²                                                                                                |
-| crypto-group-buy.com        | ⛔      | Spam instance                                                                                                                              |
-| freefedifollowers.ga        | ⛔      | Follower spam                                                                                                                              |
-| freespeechextremist.com     | ⛔      | Discrimination, racism, "free speech zone"²                                                                                                |
-| freevoice.space             | ⛔      | Discrimination                                                                                                                             |
-| gab.com, gab.ai             | ⛔      | Discrimination, racism, "free speech zone"²                                                                                                |
-| glindr.org                  | ⛔      | Discrimination                                                                                                                             |
-| gs.smuglo.li, pl.smuglo.li  | ⛔      | Discrimination, racism, "free speech zone"²                                                                                                |
-| humblr.social               | 🔇      | Massive amount of untagged NSFW content                                                                                                    |
-| jaeger.website              | ⛔      | Discrimination, racism, "free speech zone"²                                                                                                |
-| kiwifarms.cc                | ⛔      | Discrimination                                                                                                                             |
-| lets.saynoto.lgbt           | ⛔      | Discrimination                                                                                                                             |
-| libre.tube                  | ⛔      | Promotion of violence and murder, multiple other violations of our rules                                                                   |
-| neckbeard.xyz               | ⛔      | Discrimination, racism, lolicon³, multiple other violations of our rules                                                                   |
-| newjack.city                | ⛔      | Exclusive to unwanted follow bots                                                                                                          |
-| ohai.su                     | ⛔      |                                                                                                                                            |
-| pawoo.net                   | ⛔      | Untagged nfsw content, unwanted follow bots, lolicon\*\*\*                                                                                 |
-| pieville.net                | ⛔      | Racism, antisemitism                                                                                                                       |
-| play.xmr.101010.pl          | ⛔      | Cryptomining                                                                                                                               |
-| pleroma.rareome.ga          | ⛔      | Doesn't [respect blocks or status privacy](https://pleroma.rareome.ga/notice/113524), [lolicons](https://pleroma.rareome.ga/notice/55113)³ |
-| preteengirls.biz            | ⛔      | Ew.³                                                                                                                                       |
-| shitposter.club             | 🔇      | "Free speech zone"²                                                                                                                        |
-| sinblr.com                  | 🔇      | Massive amount of untagged NSFW content                                                                                                    |
-| skippers-bin.com            | ⛔      | Same admin as neckbeard.xyz, same behaviour                                                                                                |
-| sneak.berlin                | ⛔      | privacy violation                                                                                                |
-| spinster.xyz                | ⛔      | Discrimination                                                                                                                             |
-| the.hedgehoghunter.club     | ⛔      | Discrimination, racism, "free speech zone"²                                                                                                |
-| toot.canberrasocial.net     | ⛔      | "free speech zone"²                                        |
-| video.halle-leaks.de        | ⛔      | Discrimination, racism, "free speech zone"²                                                                                                |
-| weedis.life                 | ⛔      | Follower spam                                                                                                                              |
-| yggdrasil.social            | ⛔      | Discrimination                                                                                               |
+| Instance | Status¹ | Reason |
+| --- | ---- | --- |
+| anitwitter.moe              | ⛔ | Discrimination, racism, "free speech zone"² |
+| brighteon.social            | ⛔ | "free speech zone"² |
+| cawfee.club                 | ⛔ | Discrimination, racism, "free speech zone"² |
+| community.halle-leaks.de    | ⛔ | Discrimination, racism, "free speech zone"² |
+| crypto-group-buy.com        | ⛔ | Spam instance |
+| freefedifollowers.ga        | ⛔ | Follower spam |
+| freespeechextremist.com     | ⛔ | Discrimination, racism, "free speech zone"² |
+| freevoice.space             | ⛔ | Discrimination |
+| gab.com, gab.ai             | ⛔ | Discrimination, racism, "free speech zone"² |
+| glindr.org                  | ⛔ | Discrimination |
+| gs.smuglo.li, pl.smuglo.li  | ⛔ | Discrimination, racism, "free speech zone"² |
+| humblr.social               | 🔇 | Massive amount of untagged NSFW content |
+| jaeger.website              | ⛔ | Discrimination, racism, "free speech zone"² |
+| kiwifarms.cc                | ⛔ | Discrimination |
+| lets.saynoto.lgbt           | ⛔ | Discrimination |
+| libre.tube                  | ⛔ | Promotion of violence and murder, multiple other violations of our rules |
+| neckbeard.xyz               | ⛔ | Discrimination, racism, lolicon³, multiple other violations of our rules |
+| newjack.city                | ⛔ | Exclusive to unwanted follow bots |
+| ohai.su                     | ⛔ | Offline |
+| pawoo.net                   | ⛔ | Untagged nfsw content, unwanted follow bots, lolicon\*\*\* |
+| pieville.net                | ⛔ | Racism, antisemitism |
+| play.xmr.101010.pl          | ⛔ | Cryptomining |
+| pleroma.rareome.ga          | ⛔ | Doesn't [respect blocks or status privacy](https://pleroma.rareome.ga/notice/113524), [lolicons](https://pleroma.rareome.ga/notice/55113)³ |
+| preteengirls.biz            | ⛔ | Ew.³ |
+| shitposter.club             | 🔇 | "Free speech zone"² |
+| sinblr.com                  | 🔇 | Massive amount of untagged NSFW content |
+| skippers-bin.com            | ⛔ | Same admin as neckbeard.xyz, same behaviour |
+| sneak.berlin                | ⛔ | privacy violation |
+| spinster.xyz                | ⛔ | Discrimination |
+| the.hedgehoghunter.club     | ⛔ | Discrimination, racism, "free speech zone"² |
+| toot.canberrasocial.net     | ⛔ | "free speech zone"² |
+| video.halle-leaks.de        | ⛔ | Discrimination, racism, "free speech zone"² |
+| weedis.life                 | ⛔ | Follower spam |
+| yggdrasil.social            | ⛔ | Discrimination |
 
 ### Footnotes
 
