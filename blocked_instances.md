@@ -19,7 +19,8 @@ Blocked instances
 | brighteon.social            | ⛔ | "free speech zone"² |
 | cawfee.club                 | ⛔ | Discrimination, racism, "free speech zone"² |
 | community.halle-leaks.de    | ⛔ | Discrimination, racism, "free speech zone"² |
-| crypto-group-buy.com        | ⛔ | Spam instance |
+| crypto-group-buy.com        | ⛔ | Spam instance                               |
+| degenerates.fail            | ⛔ | Discrimination, racism                      |
 | freefedifollowers.ga        | ⛔ | Follower spam |
 | frennet.link                | ⛔ | Discrimination, racism, "free speech zone"² |
 | freespeechextremist.com     | ⛔ | Discrimination, racism, "free speech zone"² |
