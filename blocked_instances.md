@@ -29,7 +29,7 @@ Blocked instances
 | gitmo.life                  | ⛔ | "free speech zone"² |
 | glindr.org                  | ⛔ | Discrimination |
 | gs.smuglo.li, pl.smuglo.li  | ⛔ | Discrimination, racism, "free speech zone"² |
-| humblr.social               | 🔇 | Massive amount of untagged NSFW content |
+| humblr.social               | ⛔ | Massive amount of untagged NSFW content (site doesn't exist anymore) |
 | jaeger.website              | ⛔ | Discrimination, racism, "free speech zone"² |
 | kiwifarms.cc                | ⛔ | Discrimination |
 | lets.saynoto.lgbt           | ⛔ | Discrimination |
@@ -49,7 +49,7 @@ Blocked instances
 | pleroma.nobodyhasthe.biz    | ⛔ | Doxxing and discrimination |
 | poa.st                      | ⛔ | Discrimination |
 | preteengirls.biz            | ⛔ | Ew.³ |
-| shitposter.club             | 🔇 | "Free speech zone"² |
+| shitposter.club             | ⛔ | "Free speech zone"² |
 | sinblr.com                  | 🔇 | Massive amount of untagged NSFW content |
 | skippers-bin.com            | ⛔ | Same admin as neckbeard.xyz, same behaviour |
 | sneak.berlin                | ⛔ | privacy violation |
