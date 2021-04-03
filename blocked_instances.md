@@ -20,6 +20,7 @@ Blocked instances
 | cawfee.club                 | ⛔ | Discrimination, racism, "free speech zone"² |
 | community.halle-leaks.de    | ⛔ | Discrimination, racism, "free speech zone"² |
 | crypto-group-buy.com        | ⛔ | Spam instance |
+| degenerates.fail            | ⛔ | Discrimination, racism, "free speech zone"² |
 | freefedifollowers.ga        | ⛔ | Follower spam |
 | frennet.link                | ⛔ | Discrimination, racism, "free speech zone"² |
 | freespeechextremist.com     | ⛔ | Discrimination, racism, "free speech zone"² |
@@ -28,14 +29,17 @@ Blocked instances
 | gab.com, gab.ai             | ⛔ | Discrimination, racism, "free speech zone"² |
 | gitmo.life                  | ⛔ | "free speech zone"² |
 | glindr.org                  | ⛔ | Discrimination |
+| glowers.club                | ⛔ | Discrimination, racism, "free speech zone"² |
 | gs.smuglo.li, pl.smuglo.li  | ⛔ | Discrimination, racism, "free speech zone"² |
 | humblr.social               | ⛔ | Massive amount of untagged NSFW content (site doesn't exist anymore) |
+| iddqd.social                | ⛔ | Discrimination, racism, "free speech zone"² |
 | jaeger.website              | ⛔ | Discrimination, racism, "free speech zone"² |
 | kiwifarms.cc                | ⛔ | Discrimination |
 | lets.saynoto.lgbt           | ⛔ | Discrimination |
 | libre.tube                  | ⛔ | Promotion of violence and murder, multiple other violations of our rules |
 | mastodonten.de              | ⛔ | https://chaos.social/@ordnung/105912780449971578 |
 | meta-tube.de                | ⛔ | Conspiracy, CoVid19 denier videos https://fediblock.org/blocklist/#meta-tube.de |
+| mojozilla.net               | ⛔ | Conspiracy, CoVid19 denier |
 | mstdn.foxfam.club           | ⛔ | Right wing twitter mirror |
 | nazi.social                 | ⛔ | Obvious |
 | neckbeard.xyz               | ⛔ | Discrimination, racism, lolicon³, multiple other violations of our rules |
@@ -51,9 +55,11 @@ Blocked instances
 | preteengirls.biz            | ⛔ | Ew.³ |
 | shitposter.club             | ⛔ | "Free speech zone"² |
 | sinblr.com                  | 🔇 | Massive amount of untagged NSFW content |
+| skins.gay                   | ⛔ | Nazis |
 | skippers-bin.com            | ⛔ | Same admin as neckbeard.xyz, same behaviour |
 | sneak.berlin                | ⛔ | privacy violation |
 | social.urspringer.de        | ⛔ | Conspiracy, CoVid19 denier |
+| social.ancreport.com        | ⛔ | Discrimination, racism, "free speech zone"² |
 | socnet.supes.com            | ⛔ | Right wing "free speech zone"² |
 | spinster.xyz                | ⛔ | Discrimination |
 | the.hedgehoghunter.club     | ⛔ | Discrimination, racism, "free speech zone"² |
