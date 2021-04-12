@@ -37,6 +37,7 @@ Blocked instances
 | kiwifarms.cc                | ⛔ | Discrimination |
 | lets.saynoto.lgbt           | ⛔ | Discrimination |
 | libre.tube                  | ⛔ | Promotion of violence and murder, multiple other violations of our rules |
+| lolicon.rocks               | ⛔ | Lolicon |
 | mastodonten.de              | ⛔ | https://chaos.social/@ordnung/105912780449971578 |
 | meta-tube.de                | ⛔ | Conspiracy, CoVid19 denier videos https://fediblock.org/blocklist/#meta-tube.de |
 | mojozilla.net               | ⛔ | Conspiracy, CoVid19 denier |
