@@ -40,6 +40,7 @@ Blocked instances
 | lolicon.rocks               | ⛔ | Lolicon |
 | mastodonten.de              | ⛔ | https://chaos.social/@ordnung/105912780449971578 |
 | meta-tube.de                | ⛔ | Conspiracy, CoVid19 denier videos https://fediblock.org/blocklist/#meta-tube.de |
+| midnightride.rs             | ⛔ | Discrimination |
 | mojozilla.net               | ⛔ | Conspiracy, CoVid19 denier |
 | mstdn.foxfam.club           | ⛔ | Right wing twitter mirror |
 | nazi.social                 | ⛔ | Obvious |
