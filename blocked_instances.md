@@ -44,6 +44,7 @@ Blocked instances
 | mojozilla.net               | ⛔ | Conspiracy, CoVid19 denier |
 | mstdn.foxfam.club           | ⛔ | Right wing twitter mirror |
 | nazi.social                 | ⛔ | Obvious |
+| ns.auction                  | ⛔ | Racism etc |
 | neckbeard.xyz               | ⛔ | Discrimination, racism, lolicon³, multiple other violations of our rules |
 | newjack.city                | ⛔ | Exclusive to unwanted follow bots |
 | ohai.su                     | ⛔ | Offline |
