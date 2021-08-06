@@ -33,6 +33,7 @@ Blocked instances
 | glindr.org                  | ⛔ | Discrimination |
 | glowers.club                | ⛔ | Discrimination, racism, "free speech zone"² |
 | gs.smuglo.li, pl.smuglo.li  | ⛔ | Discrimination, racism, "free speech zone"² |
+| hentai.baby                 | ⛔ | Self-proclaimed lolicon³ site |
 | humblr.social               | ⛔ | Massive amount of untagged NSFW content (site doesn't exist anymore) |
 | iddqd.social                | ⛔ | Discrimination, racism, "free speech zone"² |
 | jaeger.website              | ⛔ | Discrimination, racism, "free speech zone"² |
