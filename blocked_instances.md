@@ -18,6 +18,7 @@ Blocked instances
 | based.directory             | ⛔ | Discrimination, racism, "free speech zone"² |
 | brighteon.social            | ⛔ | "free speech zone"² |
 | cawfee.club                 | ⛔ | Discrimination, racism, "free speech zone"² |
+| club.darknight-coffee.eu    | ⛔ | "free speech zone"² |
 | community.halle-leaks.de    | ⛔ | Discrimination, racism, "free speech zone"² |
 | crypto-group-buy.com        | ⛔ | Spam instance                               |
 | daishouri.moe               | ⛔ | Fascism, openly advertises with swastika    |
