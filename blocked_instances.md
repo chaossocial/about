@@ -20,6 +20,7 @@ Blocked instances
 | cawfee.club                 | ⛔ | Discrimination, racism, "free speech zone"² |
 | community.halle-leaks.de    | ⛔ | Discrimination, racism, "free speech zone"² |
 | crypto-group-buy.com        | ⛔ | Spam instance                               |
+| daishouri.moe               | ⛔ | Fascism, openly advertises with swastika    |
 | degenerates.fail            | ⛔ | Discrimination, racism                      |
 | freefedifollowers.ga        | ⛔ | Follower spam |
 | frennet.link                | ⛔ | Discrimination, racism, "free speech zone"² |
