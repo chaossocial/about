@@ -50,6 +50,7 @@ Blocked instances
 | ns.auction                  | ⛔ | Racism etc |
 | neckbeard.xyz               | ⛔ | Discrimination, racism, lolicon³, multiple other violations of our rules |
 | newjack.city                | ⛔ | Exclusive to unwanted follow bots |
+| noagendasocial.com          | ⛔ | "free speech zone"², harassment |
 | ohai.su                     | ⛔ | Offline |
 | pawoo.net                   | ⛔ | Untagged nfsw content, unwanted follow bots, lolicon\*\*\* |
 | paypig.org                  | ⛔ | Racism |
