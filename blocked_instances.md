@@ -55,6 +55,7 @@ Blocked instances
 | pawoo.net                   | ⛔ | Untagged nfsw content, unwanted follow bots, lolicon\*\*\* |
 | paypig.org                  | ⛔ | Racism |
 | pieville.net                | ⛔ | Racism, antisemitism |
+| pl.anon-kenkai.com          | ⛔ | [Racism, antisemitism, lolicon, "free speech zone", discrimination](https://pl.anon-kenkai.com/notice/AGdCO1HBfYNH5jPPEG) |
 | play.xmr.101010.pl          | ⛔ | Cryptomining |
 | pleroma.rareome.ga          | ⛔ | Doesn't [respect blocks or status privacy](https://pleroma.rareome.ga/notice/113524), [lolicons](https://pleroma.rareome.ga/notice/55113)³ |
 | pleroma.nobodyhasthe.biz    | ⛔ | Doxxing and discrimination |
