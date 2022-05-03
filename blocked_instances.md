@@ -20,6 +20,7 @@ Blocked instances
 | cawfee.club                 | ⛔ | Discrimination, racism, "free speech zone"² |
 | club.darknight-coffee.eu    | ⛔ | "free speech zone"² |
 | community.halle-leaks.de    | ⛔ | Discrimination, racism, "free speech zone"² |
+| comfyboy.club               | ⛔ | Discrimination, racism |
 | crypto-group-buy.com        | ⛔ | Spam instance                               |
 | daishouri.moe               | ⛔ | Fascism, openly advertises with swastika    |
 | degenerates.fail            | ⛔ | Discrimination, racism                      |
@@ -29,6 +30,7 @@ Blocked instances
 | freevoice.space             | ⛔ | Discrimination |
 | f.haeder.net                | ⛔ | Discrimination |
 | gab.com, gab.ai             | ⛔ | Discrimination, racism, "free speech zone"² |
+| gegenstimme.tv              | ⛔ | "free speech zone"² |
 | gitmo.life                  | ⛔ | "free speech zone"² |
 | glindr.org                  | ⛔ | Discrimination |
 | glowers.club                | ⛔ | Discrimination, racism, "free speech zone"² |
@@ -71,6 +73,7 @@ Blocked instances
 | spinster.xyz                | ⛔ | Discrimination |
 | the.hedgehoghunter.club     | ⛔ | Discrimination, racism, "free speech zone"² |
 | toot.canberrasocial.net     | ⛔ | "free speech zone"² |
+| truthsocial.co.in           | ⛔ | Alt-right trolls |
 | tube.dictionary-of-miu.de   | ⛔ | Offline |
 | video.halle-leaks.de        | ⛔ | Discrimination, racism, "free speech zone"² |
 | weedis.life                 | ⛔ | Follower spam |
