@@ -17,6 +17,7 @@ Blocked instances
 | beta.birdsite.live          | ⛔ | Twitter crossposting bots breaking mentions|
 | bird.nzbr.de                | ⛔ | Twitter crossposting bots breaking mentions|
 | birdsite.wilde.cloud        | ⛔ | Twitter crossposting bots breaking mentions|
+| birdsite.slashdev.space     | ⛔ | Twitter crossposting bots breaking mentions|
 | brighteon.social            | ⛔ | "free speech zone"² |
 | cawfee.club                 | ⛔ | Discrimination, racism, "free speech zone"² |
 | club.darknight-coffee.eu    | ⛔ | "free speech zone"² |
