@@ -14,6 +14,9 @@ Blocked instances
 
 | Instance | Status¹ | Reason |
 | --- | ---- | --- |
+| beta.birdsite.live          | ⛔ | Twitter crossposting bots breaking mentions|
+| bird.nzbr.de                | ⛔ | Twitter crossposting bots breaking mentions|
+| birdsite.wilde.cloud        | ⛔ | Twitter crossposting bots breaking mentions|
 | brighteon.social            | ⛔ | "free speech zone"² |
 | cawfee.club                 | ⛔ | Discrimination, racism, "free speech zone"² |
 | club.darknight-coffee.eu    | ⛔ | "free speech zone"² |
@@ -57,6 +60,8 @@ Blocked instances
 | spinster.xyz                | ⛔ | Discrimination |
 | toot.canberrasocial.net     | ⛔ | "free speech zone"² |
 | truthsocial.co.in           | ⛔ | Alt-right trolls |
+| twitter.activitypub.actor   | ⛔ | Twitter crossposting bots breaking mentions|
+| twtr.plus                   | ⛔ | Twitter crossposting bots breaking mentions| 
 | wiki-tube.de                | ⛔ | Right wing conspiracy videos |
 | wintermute.fr.to            | ⛔ | Discrimination |
 | yggdrasil.social            | ⛔ | Discrimination |
