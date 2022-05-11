@@ -33,6 +33,7 @@ Blocked instances
 | gitmo.life                  | ⛔ | "free speech zone"² |
 | glindr.org                  | ⛔ | Discrimination |
 | glowers.club                | ⛔ | Discrimination, racism, "free speech zone"² |
+| honkwerx.tech               | ⛔ | Racism |
 | iddqd.social                | ⛔ | Discrimination, racism, "free speech zone"² |
 | jaeger.website              | ⛔ | Discrimination, racism, "free speech zone"² |
 | kiwifarms.cc                | ⛔ | Discrimination |
