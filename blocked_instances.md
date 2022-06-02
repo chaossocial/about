@@ -14,6 +14,7 @@ Blocked instances
 
 | Instance | Status¹ | Reason |
 | --- | ---- | --- |
+| bae.st                      | ⛔ | Discrimination, racism, "free speech zone"² |
 | beta.birdsite.live          | ⛔ | Twitter crossposting bots breaking mentions|
 | bird.nzbr.de                | ⛔ | Twitter crossposting bots breaking mentions|
 | birdsite.monster            | ⛔ | Twitter crossposting bots breaking mentions|
@@ -24,6 +25,7 @@ Blocked instances
 | club.darknight-coffee.eu    | ⛔ | "free speech zone"² |
 | comfyboy.club               | ⛔ | Discrimination, racism |
 | daishouri.moe               | ⛔ | Fascism, openly advertises with swastika    |
+| detroitriotcity.com         | ⛔ | Discrimination, racism, "free speech zone"² |
 | freefedifollowers.ga        | ⛔ | Follower spam |
 | frennet.link                | ⛔ | Discrimination, racism, "free speech zone"² |
 | freespeechextremist.com     | ⛔ | Discrimination, racism, "free speech zone"² |
@@ -42,6 +44,7 @@ Blocked instances
 | meta-tube.de                | ⛔ | Conspiracy, CoVid19 denier videos https://fediblock.org/blocklist/#meta-tube.de |
 | midnightride.rs             | ⛔ | Discrimination |
 | mstdn.foxfam.club           | ⛔ | Right wing twitter mirror |
+| nicecrew.digital            | ⛔ | Discrimination, racism, "free speech zone"² |
 | ns.auction                  | ⛔ | Racism etc |
 | newjack.city                | ⛔ | Exclusive to unwanted follow bots |
 | noagendasocial.com          | ⛔ | "free speech zone"², harassment |
@@ -51,6 +54,7 @@ Blocked instances
 | pieville.net                | ⛔ | Racism, antisemitism |
 | play.xmr.101010.pl          | ⛔ | Cryptomining |
 | pleroma.rareome.ga          | ⛔ | Doesn't [respect blocks or status privacy](https://pleroma.rareome.ga/notice/113524), [lolicons](https://pleroma.rareome.ga/notice/55113)³ |
+| pleroma.narrativerry.xyz    | ⛔ | Discrimination, racism, "free speech zone"² |
 | pleroma.nobodyhasthe.biz    | ⛔ | Doxxing and discrimination |
 | poa.st                      | ⛔ | Discrimination |
 | shitposter.club             | ⛔ | "Free speech zone"² |
