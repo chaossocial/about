@@ -37,6 +37,7 @@ Blocked instances
 | glowers.club                | ⛔ | Discrimination, racism, "free speech zone"² |
 | honkwerx.tech               | ⛔ | Racism |
 | iddqd.social                | ⛔ | Discrimination, racism, "free speech zone"² |
+| itmslaves.com               | ⛔ | "free speech zone"², noagenda affiliated |
 | jaeger.website              | ⛔ | Discrimination, racism, "free speech zone"² |
 | kiwifarms.cc                | ⛔ | Discrimination |
 | libre.tube                  | ⛔ | Promotion of violence and murder, multiple other violations of our rules |
