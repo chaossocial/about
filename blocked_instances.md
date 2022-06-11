@@ -70,6 +70,7 @@ Blocked instances
 | truthsocial.co.in           | ⛔ | Alt-right trolls |
 | twitter.activitypub.actor   | ⛔ | Twitter crossposting bots breaking mentions|
 | twtr.plus                   | ⛔ | Twitter crossposting bots breaking mentions| 
+| varishangout.net            | ⛔ | Transphobia, aggressive trolling |
 | wiki-tube.de                | ⛔ | Right wing conspiracy videos |
 | wintermute.fr.to            | ⛔ | Discrimination |
 | yggdrasil.social            | ⛔ | Discrimination |
