@@ -31,6 +31,7 @@ Blocked instances
 | freespeechextremist.com     | ⛔ | Discrimination, racism, "free speech zone"² |
 | f.haeder.net                | ⛔ | Discrimination |
 | gab.com, gab.ai             | ⛔ | Discrimination, racism, "free speech zone"² |
+| gameliberty.club            | ⛔ | "free speech zone"² |
 | gegenstimme.tv              | ⛔ | "free speech zone"² |
 | gitmo.life                  | ⛔ | "free speech zone"² |
 | glindr.org                  | ⛔ | Discrimination |
