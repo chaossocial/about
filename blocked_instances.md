@@ -56,6 +56,7 @@ Blocked instances
 | pieville.net                | ⛔ | Racism, antisemitism |
 | play.xmr.101010.pl          | ⛔ | Cryptomining |
 | pleroma.rareome.ga          | ⛔ | Doesn't [respect blocks or status privacy](https://pleroma.rareome.ga/notice/113524), [lolicons](https://pleroma.rareome.ga/notice/55113)³ |
+| pleroma.kitsunemimi.club    | ⛔ | Discrimination |
 | pleroma.narrativerry.xyz    | ⛔ | Discrimination, racism, "free speech zone"² |
 | pleroma.nobodyhasthe.biz    | ⛔ | Doxxing and discrimination |
 | poa.st                      | ⛔ | Discrimination |
