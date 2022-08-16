@@ -17,6 +17,7 @@ Blocked instances
 | bae.st                      | ⛔ | Discrimination, racism, "free speech zone"² |
 | beta.birdsite.live          | ⛔ | Twitter crossposting bots breaking mentions|
 | bird.nzbr.de                | ⛔ | Twitter crossposting bots breaking mentions|
+| birdbots.leptonics.com      | ⛔ | Twitter crossposting bots breaking mentions|
 | birdsite.monster            | ⛔ | Twitter crossposting bots breaking mentions|
 | birdsite.slashdev.space     | ⛔ | Twitter crossposting bots breaking mentions|
 | birdsite.wilde.cloud        | ⛔ | Twitter crossposting bots breaking mentions|
