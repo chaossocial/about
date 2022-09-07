@@ -27,6 +27,7 @@ Blocked instances
 | comfyboy.club               | ⛔ | Discrimination, racism |
 | daishouri.moe               | ⛔ | Fascism, openly advertises with swastika    |
 | detroitriotcity.com         | ⛔ | Discrimination, racism, "free speech zone"² |
+| freeatlantis.com            | ⛔ | Conspiracy theory instance |
 | freefedifollowers.ga        | ⛔ | Follower spam |
 | frennet.link                | ⛔ | Discrimination, racism, "free speech zone"² |
 | freespeechextremist.com     | ⛔ | Discrimination, racism, "free speech zone"² |
