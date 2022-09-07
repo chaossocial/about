@@ -76,6 +76,7 @@ Blocked instances
 | spinster.xyz                | ⛔ | Discrimination |
 | toot.canberrasocial.net     | ⛔ | "free speech zone"² |
 | truthsocial.co.in           | ⛔ | Alt-right trolls |
+| tube.kenfm.de               | ⛔ | Conspiracy videos |
 | tube.querdenken-711.de      | ⛔ | Conspiracy videos |
 | twitter.activitypub.actor   | ⛔ | Twitter crossposting bots breaking mentions|
 | twtr.plus                   | ⛔ | Twitter crossposting bots breaking mentions| 
