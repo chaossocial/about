@@ -12,9 +12,10 @@ content into other instances. Instances that don't exist anymore are removed per
 Blocked instances
 -------
 
-| Instance | Status¹ | Reason |
-| --- | ---- | --- |
+| Instance                    | Status¹ | Reason                                 |
+| --------------------------- | -- | ------------------------------------------- |
 | bae.st                      | ⛔ | Discrimination, racism, "free speech zone"² |
+| baraag.net                  | ⛔ | Lolicon |
 | beta.birdsite.live          | ⛔ | Twitter crossposting bots breaking mentions|
 | bird.nzbr.de                | ⛔ | Twitter crossposting bots breaking mentions|
 | birdbots.leptonics.com      | ⛔ | Twitter crossposting bots breaking mentions|
