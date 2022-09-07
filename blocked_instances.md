@@ -71,6 +71,7 @@ Blocked instances
 | social.urspringer.de        | ⛔ | Conspiracy, CoVid19 denier |
 | social.ancreport.com        | ⛔ | Discrimination, racism, "free speech zone"² |
 | socnet.supes.com            | ⛔ | Right wing "free speech zone"² |
+| solagg.com                  | ⛔ | Scammers |
 | spinster.xyz                | ⛔ | Discrimination |
 | toot.canberrasocial.net     | ⛔ | "free speech zone"² |
 | truthsocial.co.in           | ⛔ | Alt-right trolls |
