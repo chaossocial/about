@@ -24,6 +24,7 @@ Blocked instances
 | birdsite.wilde.cloud        | ⛔ | Twitter crossposting bots breaking mentions|
 | brighteon.social            | ⛔ | "free speech zone"² |
 | cawfee.club                 | ⛔ | Discrimination, racism, "free speech zone"² |
+| chudbuds.lol                | ⛔ | Discrimination, racism, "free speech zone"² |
 | club.darknight-coffee.eu    | ⛔ | "free speech zone"² |
 | comfyboy.club               | ⛔ | Discrimination, racism |
 | daishouri.moe               | ⛔ | Fascism, openly advertises with swastika    |
