@@ -2,8 +2,7 @@ List of instances blocked by chaos.social
 =======
 
 This is a list of Mastodon/GNU Social instances blocked by [chaos.social](https://chaos.social). If you think an
-instance has been unfairly blocked, please contact the administrators [leah](https://chaos.social/@leah) and
-[rixx](https://chaos.social/@rixx).
+instance has been unfairly blocked, please contact the administrators [@ordnung](https://chaos.social/@ordnung).
 
 The purpose of this list is to be transparent towards our users, and to collaborate with other admins on identifying
 those instances that violate the Code of Conduct, or those that tend to contain bad actors, and who boost unwanted
