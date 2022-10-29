@@ -15,12 +15,20 @@ Blocked instances
 | --------------------------- | -- | ------------------------------------------- |
 | bae.st                      | ⛔ | Discrimination, racism, "free speech zone"² |
 | baraag.net                  | ⛔ | Lolicon |
-| beta.birdsite.live          | ⛔ | Twitter crossposting bots breaking mentions|
-| bird.nzbr.de                | ⛔ | Twitter crossposting bots breaking mentions|
-| birdbots.leptonics.com      | ⛔ | Twitter crossposting bots breaking mentions|
-| birdsite.monster            | ⛔ | Twitter crossposting bots breaking mentions|
-| birdsite.slashdev.space     | ⛔ | Twitter crossposting bots breaking mentions|
-| birdsite.wilde.cloud        | ⛔ | Twitter crossposting bots breaking mentions|
+| beta.birdsite.live          | ⛔ | Twitter crossposter|
+| birb.elfenban.de            | ⛔ | Twitter crossposter|
+| bird.evilcyberhacker.net    | ⛔ | Twitter crossposter|
+| bird.froth.zone             | ⛔ | Twitter crossposter|
+| bird.nzbr.de                | ⛔ | Twitter crossposter|
+| birdbots.leptonics.com      | ⛔ | Twitter crossposter|
+| birdsite.b93.dece.space     | ⛔ | Twitter crossposter|
+| birdsite.link               | ⛔ | Twitter crossposter|
+| birdsite.monster            | ⛔ | Twitter crossposter|
+| birdsite.slashdev.space     | ⛔ | Twitter crossposter|
+| birdsitelive.treffler.cloud | ⛔ | Twitter crossposter|
+| birdsite.thorlaksson.com    | ⛔ | Twitter crossposter|
+| birdsite.wilde.cloud        | ⛔ | Twitter crossposter|
+| bridge.birb.space           | ⛔ | Twitter crossposter|
 | brighteon.social            | ⛔ | "free speech zone"² |
 | cawfee.club                 | ⛔ | Discrimination, racism, "free speech zone"² |
 | chudbuds.lol                | ⛔ | Discrimination, racism, "free speech zone"² |
