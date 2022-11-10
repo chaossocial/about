@@ -86,6 +86,7 @@ Blocked instances
 | socnet.supes.com            | ⛔ | Right wing "free speech zone"² |
 | solagg.com                  | ⛔ | Scammers |
 | spinster.xyz                | ⛔ | Discrimination |
+| tastingtraffic.net          | ⛔ | Homophobia |
 | toot.canberrasocial.net     | ⛔ | "free speech zone"² |
 | truthsocial.co.in           | ⛔ | Alt-right trolls |
 | tube.kenfm.de               | ⛔ | Conspiracy videos |
