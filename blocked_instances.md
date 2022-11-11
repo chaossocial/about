@@ -15,6 +15,7 @@ Blocked instances
 | --------------------------- | -- | ------------------------------------------- |
 | bae.st                      | ⛔ | Discrimination, racism, "free speech zone"² |
 | baraag.net                  | ⛔ | Lolicon |
+| beefyboys.club              | ⛔ | Discrimination, racism, "free speech zone"² |
 | beta.birdsite.live          | ⛔ | Twitter crossposter|
 | birb.elfenban.de            | ⛔ | Twitter crossposter|
 | bird.evilcyberhacker.net    | ⛔ | Twitter crossposter|
