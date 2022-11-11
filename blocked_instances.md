@@ -77,6 +77,7 @@ Blocked instances
 | pl.info.natehiggers.online  | ⛔ | Racism |
 | pl.tkammer.de               | ⛔ | Transphobia |
 | poa.st                      | ⛔ | Discrimination |
+| poster.place                | ⛔ | Discrimination, racism, "free speech zone"² |
 | shitposter.club             | ⛔ | "Free speech zone"² |
 | sinblr.com                  | 🔇 | Massive amount of untagged NSFW content |
 | skippers-bin.com            | ⛔ | Same admin as neckbeard.xyz, same behaviour |
