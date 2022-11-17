@@ -80,6 +80,7 @@ Blocked instances
 | pl.tkammer.de               | ⛔ | Transphobia |
 | poa.st                      | ⛔ | Discrimination |
 | poster.place                | ⛔ | Discrimination, racism, "free speech zone"² |
+| rapemeat.solutions          | ⛔ | Lolicon and also, like, the domain name |
 | shitposter.club             | ⛔ | "Free speech zone"² |
 | sinblr.com                  | 🔇 | Massive amount of untagged NSFW content |
 | skippers-bin.com            | ⛔ | Same admin as neckbeard.xyz, same behaviour |
