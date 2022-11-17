@@ -58,7 +58,8 @@ Blocked instances
 | kiwifarms.cc                | ⛔ | Discrimination |
 | libre.tube                  | ⛔ | Promotion of violence and murder, multiple other violations of our rules |
 | lolicon.rocks               | ⛔ | Lolicon |
-| mastodon.network            | ⛔ | Imperaonation linking to porn |
+| lolison.top                 | ⛔ | Lolicon, paedophilia |
+| mastodon.network            | ⛔ | Impersonation linking to porn |
 | mastodon.popps.org          | ⛔ | Homophobia |
 | meta-tube.de                | ⛔ | Conspiracy, CoVid19 denier videos https://fediblock.org/blocklist/#meta-tube.de |
 | midnightride.rs             | ⛔ | Discrimination |
