@@ -13,5 +13,10 @@ If anything about our instance bothers you, you can contact [@ordnung](https://c
 contact@ via email. If you want chaos.social to add a domain block or an individual block, please let us know via a
 report on chaos.social.
 
-By the way: we're always open to discuss nice ways to customize chaos.social, e.g. backgrounds, non-intrusive styling,
-or emojis … feel free to propose those at our [customisation_repo](https://github.com/chaossocial/custom)!
+To see our customisations (images, custom styling, patches), head over to our
+[customisation_repo](https://github.com/chaossocial/custom)!
+
+### License
+
+The contents of this repository are provided under the [Creative Commons 4.0
+BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
