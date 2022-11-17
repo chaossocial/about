@@ -36,6 +36,7 @@ Blocked instances
 | club.darknight-coffee.eu    | ⛔ | "free speech zone"² |
 | clubcyberia.co              | ⛔ | Homophobia |
 | comfyboy.club               | ⛔ | Discrimination, racism |
+| cum.salon                   | ⛔ | Misogynic, pedophilia |
 | daishouri.moe               | ⛔ | Fascism, openly advertises with swastika    |
 | detroitriotcity.com         | ⛔ | Discrimination, racism, "free speech zone"² |
 | eientei.org                 | ⛔ | Racism, antisemitism |
