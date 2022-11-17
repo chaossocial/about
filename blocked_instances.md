@@ -34,6 +34,7 @@ Blocked instances
 | cawfee.club                 | ⛔ | Discrimination, racism, "free speech zone"² |
 | chudbuds.lol                | ⛔ | Discrimination, racism, "free speech zone"² |
 | club.darknight-coffee.eu    | ⛔ | "free speech zone"² |
+| clubcyberia.co              | ⛔ | Homophobia |
 | comfyboy.club               | ⛔ | Discrimination, racism |
 | daishouri.moe               | ⛔ | Fascism, openly advertises with swastika    |
 | detroitriotcity.com         | ⛔ | Discrimination, racism, "free speech zone"² |
