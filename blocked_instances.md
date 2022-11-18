@@ -47,6 +47,7 @@ Blocked instances
 | freeatlantis.com            | ⛔ | Conspiracy theory instance |
 | freefedifollowers.ga        | ⛔ | Follower spam |
 | frennet.link                | ⛔ | Discrimination, racism, "free speech zone"² |
+| freecumextremist.com        | ⛔ | Discrimination, racism, "free speech zone"² |
 | freespeechextremist.com     | ⛔ | Discrimination, racism, "free speech zone"² |
 | f.haeder.net                | ⛔ | Discrimination |
 | gab.com, gab.ai             | ⛔ | Discrimination, racism, "free speech zone"² |
