@@ -83,6 +83,7 @@ Blocked instances
 | pl.tkammer.de               | ⛔ | Transphobia |
 | poa.st                      | ⛔ | Discrimination |
 | poster.place                | ⛔ | Discrimination, racism, "free speech zone"² |
+| qoto.org                    | ⛔ | "free speech zone"², harassment |
 | rapemeat.solutions          | ⛔ | Lolicon and also, like, the domain name |
 | ryona.agency                | ⛔ | Alt-right trolls |
 | shitposter.club             | ⛔ | "Free speech zone"² |
