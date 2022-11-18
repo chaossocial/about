@@ -30,6 +30,7 @@ Blocked instances
 | birdsitelive.treffler.cloud | ⛔ | Twitter crossposter|
 | birdsite.thorlaksson.com    | ⛔ | Twitter crossposter|
 | birdsite.wilde.cloud        | ⛔ | Twitter crossposter|
+| birdsitelive.ffvo.dev       | ⛔ | Twitter crossposter|
 | bridge.birb.space           | ⛔ | Twitter crossposter|
 | brighteon.social            | ⛔ | "free speech zone"² |
 | cawfee.club                 | ⛔ | Discrimination, racism, "free speech zone"² |
