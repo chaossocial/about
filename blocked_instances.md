@@ -84,6 +84,7 @@ Blocked instances
 | poa.st                      | ⛔ | Discrimination |
 | poster.place                | ⛔ | Discrimination, racism, "free speech zone"² |
 | rapemeat.solutions          | ⛔ | Lolicon and also, like, the domain name |
+| ryona.agency                | ⛔ | Alt-right trolls |
 | shitposter.club             | ⛔ | "Free speech zone"² |
 | sinblr.com                  | 🔇 | Massive amount of untagged NSFW content |
 | skippers-bin.com            | ⛔ | Same admin as neckbeard.xyz, same behaviour |
