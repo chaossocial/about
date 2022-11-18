@@ -110,6 +110,7 @@ Blocked instances
 | tube.querdenken-711.de      | ⛔ | Conspiracy videos |
 | twitter.activitypub.actor   | ⛔ | Twitter crossposting bots breaking mentions|
 | twitterbridge.jannis.rocks  | ⛔ | Twitter crossposting bots breaking mentions|
+| tweetbridge.kogasa.de       | ⛔ | Twitter crossposting bots breaking mentions|
 | twtr.plus                   | ⛔ | Twitter crossposting bots breaking mentions| 
 | varishangout.net            | ⛔ | Transphobia, aggressive trolling |
 | wiki-tube.de                | ⛔ | Right wing conspiracy videos |
