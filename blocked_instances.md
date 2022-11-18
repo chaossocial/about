@@ -89,6 +89,7 @@ Blocked instances
 | rapemeat.solutions          | ⛔ | Lolicon and also, like, the domain name |
 | rdrama.cc                   | ⛔ | Discrimination, "free speech zone"² |
 | ryona.agency                | ⛔ | Alt-right trolls |
+| seal.cafe                   | ⛔ | Discrimination, racism, "free speech zone"² |
 | shitpost.cloud              | ⛔ | "Free speech zone"² |
 | shitposter.club             | ⛔ | "Free speech zone"² |
 | sinblr.com                  | 🔇 | Massive amount of untagged NSFW content |
