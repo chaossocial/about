@@ -41,6 +41,7 @@ Blocked instances
 | daishouri.moe               | ⛔ | Fascism, openly advertises with swastika    |
 | detroitriotcity.com         | ⛔ | Discrimination, racism, "free speech zone"² |
 | eientei.org                 | ⛔ | Racism, antisemitism |
+| eveningzoo.club             | ⛔ | Discrimination, racism, "free speech zone"² |
 | freeatlantis.com            | ⛔ | Conspiracy theory instance |
 | freefedifollowers.ga        | ⛔ | Follower spam |
 | frennet.link                | ⛔ | Discrimination, racism, "free speech zone"² |
