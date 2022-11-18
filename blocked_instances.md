@@ -13,6 +13,7 @@ Blocked instances
 
 | Instance                    | Status¹ | Reason                                 |
 | --------------------------- | -- | ------------------------------------------- |
+| aethy.com                   | ⛔ | Lolicon |
 | bae.st                      | ⛔ | Discrimination, racism, "free speech zone"² |
 | baraag.net                  | ⛔ | Lolicon |
 | beefyboys.club              | ⛔ | Discrimination, racism, "free speech zone"² |
