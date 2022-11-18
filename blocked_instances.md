@@ -94,6 +94,7 @@ Blocked instances
 | sneed.social                | ⛔ | Discrimination, racism, "free speech zone"² |
 | social.urspringer.de        | ⛔ | Conspiracy, CoVid19 denier |
 | social.ancreport.com        | ⛔ | Discrimination, racism, "free speech zone"² |
+| social.teci.world           | ⛔ | Discrimination, racism, "free speech zone"² |
 | socnet.supes.com            | ⛔ | Right wing "free speech zone"² |
 | solagg.com                  | ⛔ | Scammers |
 | spinster.xyz                | ⛔ | Discrimination |
