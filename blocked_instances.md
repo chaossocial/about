@@ -61,7 +61,6 @@ Blocked instances
 | iddqd.social                | ⛔ | Discrimination, racism, "free speech zone"² |
 | itmslaves.com               | ⛔ | "free speech zone"², noagenda affiliated |
 | jaeger.website              | ⛔ | Discrimination, racism, "free speech zone"² |
-| journa.host                 | ⛔ | Discrimination, transphobia |
 | kenfm.quadplay.tv           | ⛔ | Conspiracy videos |
 | kiwifarms.cc                | ⛔ | Discrimination |
 | libre.tube                  | ⛔ | Promotion of violence and murder, multiple other violations of our rules |
