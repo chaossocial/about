@@ -80,7 +80,7 @@ Blocked instances
 | paypig.org                  | ⛔ | Racism |
 | pieville.net                | ⛔ | Racism, antisemitism |
 | play.xmr.101010.pl          | ⛔ | Cryptomining |
-| pleroma.rareome.ga          | ⛔ | Doesn't [respect blocks or status privacy](https://pleroma.rareome.ga/notice/113524), [lolicons](https://pleroma.rareome.ga/notice/55113)³ |
+| pleroma.rareome.ga          | ⛔ | Doesn't [respect blocks or status privacy](https://pleroma.rareome.ga/notice/113524), [lolicons](https://pleroma.rareome.ga/notice/55113) |
 | pleroma.kitsunemimi.club    | ⛔ | Discrimination |
 | pleroma.narrativerry.xyz    | ⛔ | Discrimination, racism, "free speech zone"² |
 | pleroma.nobodyhasthe.biz    | ⛔ | Doxxing and discrimination |
@@ -128,8 +128,6 @@ be seen, e.g. by searching for them, by interacting with them in conversations, 
 
 ² "Free speech zone": A place where it's okay to promote e.g. National Socialism because the argument is that open
 discussion is more important than people's sensitivities or the denazification laws of Germany/France/etc.
-
-³ "lolicon": sexualized depictions of children
 
 Notes on our instance
 -----
