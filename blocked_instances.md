@@ -27,6 +27,7 @@ Blocked instances
 | birdsite.b93.dece.space     | ⛔ | Twitter crossposter|
 | birdsite.blazelights.dev    | ⛔ | Twitter crossposter|
 | birdsite.frog.fashion       | ⛔ | Twitter crossposter|
+| birdsite.gabeappleton.me    | ⛔ | Twitter crossposter|
 | birdsite.james.moody.name   | ⛔ | Twitter crossposter|
 | birdsite.lakedrops.com      | ⛔ | Twitter crossposter|
 | birdsite.link               | ⛔ | Twitter crossposter|
