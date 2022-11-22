@@ -30,6 +30,7 @@ Blocked instances
 | birdsite.monster            | ⛔ | Twitter crossposter|
 | birdsite.slashdev.space     | ⛔ | Twitter crossposter|
 | birdsitelive.treffler.cloud | ⛔ | Twitter crossposter|
+| birdsite.tcjc.uk            | ⛔ | Twitter crossposter|
 | birdsite.thorlaksson.com    | ⛔ | Twitter crossposter|
 | birdsite.wilde.cloud        | ⛔ | Twitter crossposter|
 | birdsitelive.ffvo.dev       | ⛔ | Twitter crossposter|
