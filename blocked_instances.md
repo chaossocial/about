@@ -25,6 +25,7 @@ Blocked instances
 | bird.nzbr.de                | ⛔ | Twitter crossposter|
 | birdbots.leptonics.com      | ⛔ | Twitter crossposter|
 | birdsite.b93.dece.space     | ⛔ | Twitter crossposter|
+| birdsite.blazelights.dev    | ⛔ | Twitter crossposter|
 | birdsite.frog.fashion       | ⛔ | Twitter crossposter|
 | birdsite.lakedrops.com      | ⛔ | Twitter crossposter|
 | birdsite.link               | ⛔ | Twitter crossposter|
