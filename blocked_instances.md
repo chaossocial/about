@@ -26,6 +26,7 @@ Blocked instances
 | birdbots.leptonics.com      | ⛔ | Twitter crossposter|
 | birdsite.b93.dece.space     | ⛔ | Twitter crossposter|
 | birdsite.frog.fashion       | ⛔ | Twitter crossposter|
+| birdsite.lakedrops.com      | ⛔ | Twitter crossposter|
 | birdsite.link               | ⛔ | Twitter crossposter|
 | birdsite.monster            | ⛔ | Twitter crossposter|
 | birdsite.slashdev.space     | ⛔ | Twitter crossposter|
