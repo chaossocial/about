@@ -101,6 +101,7 @@ Blocked instances
 | seal.cafe                   | ⛔ | Discrimination, racism, "free speech zone"² |
 | shitpost.cloud              | ⛔ | "Free speech zone"² |
 | shitposter.club             | ⛔ | "Free speech zone"² |
+| shortstackran.ch            | ⛔ | Racism, homophobia, "free speech zone"² |
 | shota.house                 | ⛔ | Lolicon |
 | sinblr.com                  | 🔇 | Massive amount of untagged NSFW content |
 | skippers-bin.com            | ⛔ | Same admin as neckbeard.xyz, same behaviour |
