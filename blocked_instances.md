@@ -44,6 +44,7 @@ Blocked instances
 | chudbuds.lol                | ⛔ | Discrimination, racism, "free speech zone"² |
 | club.darknight-coffee.eu    | ⛔ | "free speech zone"² |
 | clubcyberia.co              | ⛔ | Homophobia |
+| clube.social                | ⛔ | Harassment |
 | comfyboy.club               | ⛔ | Discrimination, racism |
 | cum.salon                   | ⛔ | Misogynic, pedophilia |
 | daishouri.moe               | ⛔ | Fascism, openly advertises with swastika    |
@@ -81,7 +82,7 @@ Blocked instances
 | newjack.city                | ⛔ | Exclusive to unwanted follow bots |
 | noagendasocial.com          | ⛔ | "free speech zone"², harassment |
 | ohai.su                     | ⛔ | Offline |
-| pawoo.net                   | ⛔ | Untagged nfsw content, unwanted follow bots, lolicon\*\*\* |
+| pawoo.net                   | ⛔ | Untagged nfsw content, unwanted follow bots, lolicon |
 | paypig.org                  | ⛔ | Racism |
 | pieville.net                | ⛔ | Racism, antisemitism |
 | play.xmr.101010.pl          | ⛔ | Cryptomining |
