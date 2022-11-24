@@ -60,6 +60,7 @@ Blocked instances
 | gab.com, gab.ai             | ⛔ | Discrimination, racism, "free speech zone"² |
 | gameliberty.club            | ⛔ | "free speech zone"² |
 | gegenstimme.tv              | ⛔ | "free speech zone"² |
+| genderheretics.xyz          | ⛔ | Tagline "Now With 41% More Misgendering!" |
 | gitmo.life                  | ⛔ | "free speech zone"² |
 | glindr.org                  | ⛔ | Discrimination |
 | glowers.club                | ⛔ | Discrimination, racism, "free speech zone"² |
