@@ -113,20 +113,18 @@ Blocked instances
 | social.teci.world           | ⛔ | Discrimination, racism, "free speech zone"² |
 | socnet.supes.com            | ⛔ | Right wing "free speech zone"² |
 | solagg.com                  | ⛔ | Scammers |
-| spinster.xyz                | ⛔ | Discrimination |
+| spinster.xyz                | ⛔ | Discrimination, TERFs |
 | tastingtraffic.net          | ⛔ | Homophobia |
-| toot.canberrasocial.net     | ⛔ | "free speech zone"² |
 | truthsocial.co.in           | ⛔ | Alt-right trolls |
-| tube.kenfm.de               | ⛔ | Conspiracy videos |
-| tube.querdenken-711.de      | ⛔ | Conspiracy videos |
-| twitter.activitypub.actor   | ⛔ | Twitter crossposting bots breaking mentions|
-| twitterbridge.jannis.rocks  | ⛔ | Twitter crossposting bots breaking mentions|
-| tweetbridge.kogasa.de       | ⛔ | Twitter crossposting bots breaking mentions|
-| twtr.plus                   | ⛔ | Twitter crossposting bots breaking mentions| 
-| varishangout.net            | ⛔ | Transphobia, aggressive trolling |
-| wiki-tube.de                | ⛔ | Right wing conspiracy videos |
-| wintermute.fr.to            | ⛔ | Discrimination |
-| yggdrasil.social            | ⛔ | Discrimination |
+| tube.kenfm.de               | ⛔ | Right-wing conspiracy videos |
+| tube.querdenken-711.de      | ⛔ | Right-wing onspiracy videos |
+| twitter.activitypub.actor   | ⛔ | Twitter crossposter|
+| twitterbridge.jannis.rocks  | ⛔ | Twitter crossposter|
+| tweetbridge.kogasa.de       | ⛔ | Twitter crossposter|
+| twtr.plus                   | ⛔ | Twitter crossposter| 
+| varishangout.net            | ⛔ | Transphobia and racism go unmoderated, aggressive trolling, lolicon permitted in rules |
+| wiki-tube.de                | ⛔ | Right-wing conspiracy videos ([initial video](https://serv3.wiki-tube.de/videos/watch/c1ba1760-21e2-42f0-9c2a-b7e8fd53c722) welcomes Querdenken and KenFM) |
+| yggdrasil.social            | ⛔ | Instance rules: “No LGBTQ. Period. No homosexuality. No men who think they're women or women who think they're men. No made up genders.” |
 
 ### Footnotes
 
