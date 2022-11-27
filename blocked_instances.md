@@ -32,6 +32,7 @@ Blocked instances
 | birdsite.lakedrops.com      | ⛔ | Twitter crossposter|
 | birdsite.link               | ⛔ | Twitter crossposter|
 | birdsite.monster            | ⛔ | Twitter crossposter|
+| birdsite.oliviaappleton.com | ⛔ | Twitter crossposter|
 | birdsite.slashdev.space     | ⛔ | Twitter crossposter|
 | birdsitelive.treffler.cloud | ⛔ | Twitter crossposter|
 | birdsite.tcjc.uk            | ⛔ | Twitter crossposter|
