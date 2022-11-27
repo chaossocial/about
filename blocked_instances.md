@@ -40,6 +40,7 @@ Blocked instances
 | birdsite.toot.si            | ⛔ | Twitter crossposter|
 | birdsite.wilde.cloud        | ⛔ | Twitter crossposter|
 | birdsitelive.ffvo.dev       | ⛔ | Twitter crossposter|
+| birdsitelive.peanutlasko.com| ⛔ | Twitter crossposter|
 | bridge.birb.space           | ⛔ | Twitter crossposter|
 | brighteon.social            | ⛔ | "free speech zone"² |
 | cawfee.club                 | ⛔ | Discrimination, racism, "free speech zone"² |
