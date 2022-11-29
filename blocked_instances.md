@@ -130,6 +130,7 @@ Blocked instances
 | twtr.plus                   | ⛔ | Twitter crossposter| 
 | varishangout.net            | ⛔ | Transphobia and racism go unmoderated, aggressive trolling, lolicon permitted in rules |
 | wiki-tube.de                | ⛔ | Right-wing conspiracy videos ([initial video](https://serv3.wiki-tube.de/videos/watch/c1ba1760-21e2-42f0-9c2a-b7e8fd53c722) welcomes Querdenken and KenFM) |
+| wolfgirl.bar                | ⛔ | Discrimination, homophobia, unmoderated trolling | 
 | yggdrasil.social            | ⛔ | Instance rules: “No LGBTQ. Period. No homosexuality. No men who think they're women or women who think they're men. No made up genders.” |
 
 ### Footnotes
