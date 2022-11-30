@@ -62,7 +62,7 @@ Blocked instances
 | freecumextremist.com        | ⛔ | Discrimination, racism, "free speech zone"² |
 | freespeechextremist.com     | ⛔ | Discrimination, racism, "free speech zone"² |
 | f.haeder.net                | ⛔ | Discrimination |
-| gab.com, gab.ai             | ⛔ | Discrimination, racism, "free speech zone"² |
+| gab.com/.ai, develop.gab.com| ⛔ | Discrimination, racism, "free speech zone"² |
 | gameliberty.club            | ⛔ | "free speech zone"² |
 | gegenstimme.tv              | ⛔ | "free speech zone"² |
 | genderheretics.xyz          | ⛔ | Tagline "Now With 41% More Misgendering!" |
