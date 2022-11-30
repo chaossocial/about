@@ -67,6 +67,7 @@ Blocked instances
 | gegenstimme.tv              | ⛔ | "free speech zone"² |
 | genderheretics.xyz          | ⛔ | Tagline "Now With 41% More Misgendering!" |
 | gitmo.life                  | ⛔ | "free speech zone"² |
+| gleasonator.com             | ⛔ | Transphobia, TERFs |
 | glindr.org                  | ⛔ | Discrimination |
 | glowers.club                | ⛔ | Discrimination, racism, "free speech zone"² |
 | honkwerx.tech               | ⛔ | Racism |
@@ -104,7 +105,7 @@ Blocked instances
 | qoto.org                    | ⛔ | "free speech zone"², harassment |
 | rapemeat.solutions          | ⛔ | Lolicon and also, like, the domain name |
 | rdrama.cc                   | ⛔ | Discrimination, "free speech zone"² |
-| ryona.agency                | ⛔ | Alt-right trolls |
+| ryona.agency                | ⛔ | Alt-right trolls, harassment |
 | seal.cafe                   | ⛔ | Discrimination, racism, "free speech zone"² |
 | shitpost.cloud              | ⛔ | "Free speech zone"² |
 | shitposter.club             | ⛔ | "Free speech zone"² |
