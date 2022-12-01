@@ -101,7 +101,7 @@ Blocked instances
 | pl.info.natehiggers.online  | ⛔ | Racism |
 | pl.tkammer.de               | ⛔ | Transphobia |
 | poa.st                      | ⛔ | Discrimination |
-| poster.place                | ⛔ | Discrimination, racism, "free speech zone"² |
+| poster.place                | ⛔ | Discrimination, racism, "free speech zone"², harassment in response to blocks |
 | qoto.org                    | ⛔ | "free speech zone"², harassment |
 | rapemeat.solutions          | ⛔ | Lolicon and also, like, the domain name |
 | rdrama.cc                   | ⛔ | Discrimination, "free speech zone"² |
