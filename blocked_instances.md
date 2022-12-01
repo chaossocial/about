@@ -46,6 +46,7 @@ Blocked instances
 | bridge.birb.space           | ⛔ | Twitter crossposter|
 | brighteon.social            | ⛔ | "free speech zone"² |
 | cawfee.club                 | ⛔ | Discrimination, racism, "free speech zone"² |
+| childpawn.shop              | ⛔ | Pedophilia |
 | chudbuds.lol                | ⛔ | Discrimination, racism, "free speech zone"² |
 | club.darknight-coffee.eu    | ⛔ | "free speech zone"² |
 | clubcyberia.co              | ⛔ | Homophobia |
