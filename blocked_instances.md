@@ -97,8 +97,9 @@ Blocked instances
 | pleroma.kitsunemimi.club    | ⛔ | Discrimination |
 | pleroma.narrativerry.xyz    | ⛔ | Discrimination, racism, "free speech zone"² |
 | pleroma.nobodyhasthe.biz    | ⛔ | Doxxing and discrimination |
-| pl.natehiggers.online       | ⛔ | Racism |
 | pl.info.natehiggers.online  | ⛔ | Racism |
+| pl.natehiggers.online       | ⛔ | Racism |
+| pl.serialmay.link           | ⛔ | Racism, transphobia |
 | pl.tkammer.de               | ⛔ | Transphobia |
 | poa.st                      | ⛔ | Discrimination |
 | poster.place                | ⛔ | Discrimination, racism, "free speech zone"², harassment in response to blocks |
