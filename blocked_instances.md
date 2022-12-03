@@ -108,6 +108,7 @@ Blocked instances
 | qoto.org                    | ⛔ | "free speech zone"², harassment |
 | rapemeat.solutions          | ⛔ | Lolicon and also, like, the domain name |
 | rdrama.cc                   | ⛔ | Discrimination, "free speech zone"² |
+| repl.co                     | ⛔ | Spam
 | ryona.agency                | ⛔ | Alt-right trolls, harassment |
 | seal.cafe                   | ⛔ | Discrimination, racism, "free speech zone"² |
 | shitpost.cloud              | ⛔ | "Free speech zone"² |
