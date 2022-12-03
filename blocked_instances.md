@@ -85,6 +85,7 @@ Blocked instances
 | mastodon.popps.org          | ⛔ | Homophobia |
 | meta-tube.de                | ⛔ | Conspiracy, CoVid19 denier videos https://fediblock.org/blocklist/#meta-tube.de |
 | midnightride.rs             | ⛔ | Discrimination |
+| misskey-forkbomb.cf         | ⛔ | Spam
 | mstdn.foxfam.club           | ⛔ | Right wing twitter mirror |
 | nicecrew.digital            | ⛔ | Discrimination, racism, "free speech zone"² |
 | ns.auction                  | ⛔ | Racism etc |
