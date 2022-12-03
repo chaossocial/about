@@ -15,6 +15,7 @@ Blocked instances
 
 | Instance                    | Status¹ | Reason                                 |
 | --------------------------- | -- | ------------------------------------------- |
+| activitypub-troll.cf        | ⛔ | Spam |
 | aethy.com                   | ⛔ | Lolicon |
 | bae.st                      | ⛔ | Discrimination, racism, "free speech zone"² |
 | baraag.net                  | ⛔ | Lolicon |
